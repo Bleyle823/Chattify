@@ -1,4 +1,4 @@
-# Dappcord
+# Chattify
 
 ## Technology Stack & Tools
 
